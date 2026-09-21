@@ -38,6 +38,8 @@ Claude follows this file to pick up where things left off, and updates *Where th
 
 **Last session ended after block 3** (2026-09-21). **Resume at block 1.**
 
+**⚠️ Skip recorded: blocks 1 and 2, 2026-09-21, second pass.** Block 1 was opened — 5.2 reached *single mode vs multimode*, nothing written to its file yet — then set aside for a second homelab block. **Day 1 of the three-day trigger.** Resume 5.2 at *Category 5/6/7/8*.
+
 **Block 3 built the SIEM and it is ingesting.** The long stretch of it was a Domain 5 troubleshooting exercise in its own right — a log pipeline that ran cleanly end to end while producing events no rule could ever match, because one parser wanted a different timestamp format. **Found by testing line variants against the running system rather than reading documentation**, which is the same method that settled the DoH question.
 
 **⚠️ Only Domain 5 remains** — five objectives and **24% of the exam**, the largest single domain. It pairs directly with block 3, which practises exactly this material.
