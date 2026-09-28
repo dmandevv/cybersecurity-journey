@@ -11,14 +11,3 @@
 | **1** | **Apply for jobs — 45 mins** — user applies for jobs online - just remind them to only spend 45 minutes doing this.
 | **2** | **Security+ — 3 hours** — follow /security-plus/README.md
 | **3** | **Homelab — 3 hours** — Tracked privately in the homelab repo
-
-
-## Block 2 — Homelab, built problem-first
-
-**Claude states the goal, the constraints, candidate tools with one line each, and the success criterion — then it is mine to work out.** Claude reviews a plan before it runs, answers questions, and explains commands when asked.
-
-**Bigger hints on request:** *"nudge"* names the layer or component · *"narrow"* names the mechanism or config area · *"command"* gives the syntax, explained.
-
-**Claude interrupts unasked only for** anything irreversible or destructive, a secret about to be exposed, a factual error that would cost an hour, or a silent-failure trap.
-
-**⚠️ Nothing is broken deliberately.** The lab carries a live site, log collection and an IDS. It is a working system, not a training target.
