@@ -1,6 +1,6 @@
 # Python Fundamentals
 
-Step 1 of my [SOC Python Journey](https://github.com/dmandevv/soc-python-journey).
+Step 1 of my [Cybersecurity Journey](https://github.com/dmandevv/cybersecurity-journey).
 
 Python fundamentals — type hints, decorators, generators, file I/O — plus a FastAPI CRUD app and a Vigenère cipher cracking exercise.
 
