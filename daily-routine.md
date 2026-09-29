@@ -8,6 +8,6 @@
 
 | Block | What | Track | Description |
 |---|---|---|---|
-| **1** | **Apply for jobs — 45 mins** | No | User applies for jobs online - just remind them to only spend 45 minutes doing this. |
-| **2** | **Security+ — 3 hours** | Yes | /security-plus/README.md |
-| **3** | **Homelab — 3 hours** | Yes | ../homelab |
+| **1** | **Apply for jobs — 30 mins** | No | User applies for jobs online - just remind them to only spend 30 minutes doing this. |
+| **2** | **Security+ — 2 hours** | Yes | /security-plus/README.md |
+| **3** | **Homelab — 2 hours** | Yes | ../homelab |

@@ -4,7 +4,7 @@ One file per objective, every term taken from the official objectives document (
 
 ### 1.0 General Security Concepts — 12%
 
-- [ ] [1.1 Compare and contrast various types of security controls.](1.1-security-controls.md) — 12 terms
+- [x] [1.1 Compare and contrast various types of security controls.](1.1-security-controls.md) — 12 terms
 - [ ] [1.2 Summarize fundamental security concepts.](1.2-fundamental-security.md) — 36 terms
 - [ ] [1.3 Explain the importance of change management processes and the impact to security.](1.3-change-management-security.md) — 21 terms
 - [ ] [1.4 Explain the importance of using appropriate cryptographic solutions.](1.4-cryptographic-solutions.md) — 42 terms
